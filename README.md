@@ -1,7 +1,5 @@
 # Frontend Developer in Japan👋
-### Just 23 years old 
-### Feel free to contact me anytime!👍
-#
+
 ![satocchi0416sh's GitHub stats](https://github-readme-stats.vercel.app/api?username=satocchi0416sh&show_icons=true&theme=vue-dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satocchi0416sh&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
