@@ -6,7 +6,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satocchi0416sh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-# NOW TRAINING
 
 <p align="left">
 <a href="https://twitter.com/satoyoshi416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
