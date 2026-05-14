@@ -16,6 +16,17 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satocchi0416sh/satocchi0416sh/output/snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satocchi0416sh/satocchi0416sh/output/snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/satocchi0416sh/satocchi0416sh/output/snake.svg">
+    </picture>
+</p>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
     <a href="https://twitter.com/satoyoshi416" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50"></a>
