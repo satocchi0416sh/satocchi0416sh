@@ -103,13 +103,14 @@ async function resolveVersion(spec) {
   return null;
 }
 
+// A list, not a table: GitHub sizes table columns from their content, so a long
+// description column squeezes the project column until some name wraps mid-word.
 async function buildShipped() {
   const versions = await Promise.all(SHIPPED.map((item) => resolveVersion(item.version)));
-  const rows = SHIPPED.map((item, index) => {
-    const version = versions[index] ? ` <sub>${versions[index]}</sub>` : '';
-    return `| **[${item.name}](${item.url})**${version} | ${item.description} |`;
-  });
-  return ['| Project | What it is |', '|---|---|', ...rows].join('\n');
+  return SHIPPED.map((item, index) => {
+    const version = versions[index] ? ` \`${versions[index]}\`` : '';
+    return `- **[${item.name}](${item.url})**${version} — ${item.description}`;
+  }).join('\n');
 }
 
 async function main() {
