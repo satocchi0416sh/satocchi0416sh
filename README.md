@@ -23,9 +23,9 @@
 
 | Project | What it is |
 |---|---|
-| **[MagPoint](https://chromewebstore.google.com/detail/mcflgbjfkamejadmpepkjbndfaakbndl)** | Chrome extension that pulls the cursor toward the nearest clickable element. Pointing assist, not a cursor skin. [Source](https://github.com/satocchi0416sh/magpoint) |
+| **[MagPoint](https://chromewebstore.google.com/detail/mcflgbjfkamejadmpepkjbndfaakbndl)** <sub>v0.3.0</sub> | Chrome extension that pulls the cursor toward the nearest clickable element. Pointing assist, not a cursor skin. [Source](https://github.com/satocchi0416sh/magpoint) |
 | **[もじサンド / moji-sand](https://apps.apple.com/jp/app/id6780945669)** | A word game you can play once a day. React Native, on the App Store. |
-| **[cortex](https://github.com/satocchi0416sh/cortex)** | Go CLI that idempotently syncs local AI memory files into Notion, running under launchd. |
+| **[cortex](https://github.com/satocchi0416sh/cortex)** <sub>v0.1.0</sub> | Go CLI that idempotently syncs local AI memory files into Notion, running under launchd. |
 | **[dotgo](https://github.com/satocchi0416sh/dotgo)** | Tag-based dotfiles manager. One `dotgo.yaml`, no directory gymnastics. |
 | **[typed-notion-cli](https://github.com/satocchi0416sh/typed-notion-cli)** | Generates type-safe TypeScript schemas from Notion data sources. |
 
@@ -37,9 +37,9 @@
 
 - ♥ 204 &nbsp;[【緊急】Next.js (CVE-2025-66478) / React (CVE-2025-55182) の脆弱性について](https://zenn.dev/satoyoshi/articles/05389491886cac)
 - ♥ 17 &nbsp;[Claude Codeが生成するAIメモをNotionに逃がすCLIを作った話 — Obsidianを見送った現実的な選択](https://zenn.dev/satoyoshi/articles/2fe1c89e825e31)
+- ♥ 3 &nbsp;[Next.js (Edge Runtime) の Route Handler テストでつまずいた話と、その解決策](https://zenn.dev/fristi_blog/articles/0533853b3123e8)
 - ♥ 2 &nbsp;[クリックできる場所に吸い付く液体ガラスのカーソルを、Chrome拡張で作った](https://zenn.dev/satoyoshi/articles/liquid-glass-magnetic-cursor)
 - ♥ 2 &nbsp;[AIに同じ指示を繰り返すのをやめた ―― Skillを自己修復させる「再発防止ループ」](https://zenn.dev/satoyoshi/articles/2428152fefdd92)
-- ♥ 1 &nbsp;[AIへの頼み方が正反対になった　失敗を自分で仕組みに変える自己拡張ナレッジベース](https://zenn.dev/satoyoshi/articles/self-extending-knowledge-base)
 
 <!-- WRITING:END -->
 
