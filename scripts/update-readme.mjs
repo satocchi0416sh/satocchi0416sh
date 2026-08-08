@@ -18,7 +18,7 @@ const SHIPPED = [
     version: { source: 'chrome-web-store', id: 'mcflgbjfkamejadmpepkjbndfaakbndl' },
   },
   {
-    name: 'もじサンド / moji-sand',
+    name: 'moji-sand',
     url: 'https://apps.apple.com/jp/app/id6780945669',
     description: 'A word game you can play once a day. React Native, on the App Store.',
   },

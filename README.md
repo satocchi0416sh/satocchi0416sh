@@ -24,7 +24,7 @@
 | Project | What it is |
 |---|---|
 | **[MagPoint](https://chromewebstore.google.com/detail/mcflgbjfkamejadmpepkjbndfaakbndl)** <sub>v0.3.0</sub> | Chrome extension that pulls the cursor toward the nearest clickable element. Pointing assist, not a cursor skin. [Source](https://github.com/satocchi0416sh/magpoint) |
-| **[もじサンド / moji-sand](https://apps.apple.com/jp/app/id6780945669)** | A word game you can play once a day. React Native, on the App Store. |
+| **[moji-sand](https://apps.apple.com/jp/app/id6780945669)** | A word game you can play once a day. React Native, on the App Store. |
 | **[cortex](https://github.com/satocchi0416sh/cortex)** <sub>v0.1.0</sub> | Go CLI that idempotently syncs local AI memory files into Notion, running under launchd. |
 | **[dotgo](https://github.com/satocchi0416sh/dotgo)** | Tag-based dotfiles manager. One `dotgo.yaml`, no directory gymnastics. |
 | **[typed-notion-cli](https://github.com/satocchi0416sh/typed-notion-cli)** | Generates type-safe TypeScript schemas from Notion data sources. |
