@@ -1,11 +1,13 @@
-<h1 align="center">Satoyoshi</h1>
-
 <p align="center">
-  Software Engineer at Mercari — frontend-first, full-stack in practice.<br>
-  I build small tools that remove friction from my own workflow, then ship them.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-light.svg" alt="Satoyoshi — Software Engineer at Mercari. Frontend-first, full-stack in practice." width="100%">
+  </picture>
 </p>
 
 <p align="center">
+  I build small tools that remove friction from my own workflow, then ship them.<br>
   <a href="https://sa-san.com">sa-san.com</a>
 </p>
 
