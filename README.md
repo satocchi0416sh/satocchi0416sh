@@ -1,48 +1,58 @@
-<div align="center">
-    <h1>Welcome to My GitHub Profile!</h1>
-    <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif" height="90">
-    <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif" height="90">
-    <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif" height="90">
-</div>
+<h1 align="center">Satoyoshi</h1>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-<h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats-theta-one-89.vercel.app/api?username=satocchi0416sh&theme=vue-dark" alt="GitHub Stats" height="180em">
-    <img src="https://github-readme-stats-theta-one-89.vercel.app/api/top-langs/?username=satocchi0416sh&layout=compact&theme=vue-dark" alt="Top Languages" height="180em">
-    <img src="https://github-profile-trophy.vercel.app/?username=satocchi0416sh&theme=onedark" alt="GitHub Trophies" height="180em">
+  Software Engineer at Mercari — frontend-first, full-stack in practice.<br>
+  I build small tools that remove friction from my own workflow, then ship them.
 </p>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satocchi0416sh/satocchi0416sh/output/snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satocchi0416sh/satocchi0416sh/output/snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/satocchi0416sh/satocchi0416sh/output/snake.svg">
-    </picture>
+  <a href="https://sa-san.com">sa-san.com</a>
 </p>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+## Now
 
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-    <a href="https://twitter.com/satoyoshi416" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50"></a>
-    <a href="mailto:satoyoshi44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="40"></a>
-</p>
+- Frontend engineer on Mercari's Customer Service platform, working across the stack.
+- Shipping side projects as SA-SAN Studio — a word game on the App Store, a Chrome extension, a couple of Go CLIs.
+- Automating my own development loop: agent skills, hooks, and a knowledge base that rewrites itself when I repeat a mistake.
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+## Shipped
 
-<h2 align="center">🔧 Technologies & Tools</h2>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,py,ts,dotnet,nestjs,nextjs,react,tailwind,firebase,mysql,prisma,aws,azure,nginx,discord,github,rider,vscode,vercel,npm,yarn,unity,blender,ps,pr,ai,xd" alt="Technologies & Tools">
-</p>
+<!-- SHIPPED:START -->
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+| Project | What it is |
+|---|---|
+| **[MagPoint](https://chromewebstore.google.com/detail/mcflgbjfkamejadmpepkjbndfaakbndl)** | Chrome extension that pulls the cursor toward the nearest clickable element. Pointing assist, not a cursor skin. [Source](https://github.com/satocchi0416sh/magpoint) |
+| **[もじサンド / moji-sand](https://apps.apple.com/jp/app/id6780945669)** | A word game you can play once a day. React Native, on the App Store. |
+| **[cortex](https://github.com/satocchi0416sh/cortex)** | Go CLI that idempotently syncs local AI memory files into Notion, running under launchd. |
+| **[dotgo](https://github.com/satocchi0416sh/dotgo)** | Tag-based dotfiles manager. One `dotgo.yaml`, no directory gymnastics. |
+| **[typed-notion-cli](https://github.com/satocchi0416sh/typed-notion-cli)** | Generates type-safe TypeScript schemas from Notion data sources. |
 
-<div align="center">
-    <h2>Let's build something amazing together.</h2>
-    <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif" height="90">
-</div>
+<!-- SHIPPED:END -->
+
+## Writing
+
+<!-- WRITING:START -->
+
+- ♥ 204 &nbsp;[【緊急】Next.js (CVE-2025-66478) / React (CVE-2025-55182) の脆弱性について](https://zenn.dev/satoyoshi/articles/05389491886cac)
+- ♥ 17 &nbsp;[Claude Codeが生成するAIメモをNotionに逃がすCLIを作った話 — Obsidianを見送った現実的な選択](https://zenn.dev/satoyoshi/articles/2fe1c89e825e31)
+- ♥ 2 &nbsp;[クリックできる場所に吸い付く液体ガラスのカーソルを、Chrome拡張で作った](https://zenn.dev/satoyoshi/articles/liquid-glass-magnetic-cursor)
+- ♥ 2 &nbsp;[AIに同じ指示を繰り返すのをやめた ―― Skillを自己修復させる「再発防止ループ」](https://zenn.dev/satoyoshi/articles/2428152fefdd92)
+- ♥ 1 &nbsp;[AIへの頼み方が正反対になった　失敗を自分で仕組みに変える自己拡張ナレッジベース](https://zenn.dev/satoyoshi/articles/self-extending-knowledge-base)
+
+<!-- WRITING:END -->
+
+More on [Zenn](https://zenn.dev/satoyoshi).
+
+## How I work
+
+Almost everything here started as friction in my own day. When I catch myself giving an AI agent the same correction twice, I stop and turn it into a rule the agent loads on its own — so the fix outlives the session.
+
+That habit is why `cortex` and `dotgo` exist: the knowledge base needed somewhere durable to live, and the machines needed to agree on what "my setup" means.
+
+## Stack
+
+TypeScript · Go · React / Next.js · React Native · C# (Unity) · PHP
+
+## Links
+
+[X](https://x.com/satoyoshi416) · [support@sa-san.com](mailto:support@sa-san.com)
