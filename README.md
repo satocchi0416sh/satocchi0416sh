@@ -33,7 +33,7 @@
 
 <!-- WRITING:START -->
 
-- ♥ 204 &nbsp;[【緊急】Next.js (CVE-2025-66478) / React (CVE-2025-55182) の脆弱性について](https://zenn.dev/satoyoshi/articles/05389491886cac)
+- ♥ 205 &nbsp;[【緊急】Next.js (CVE-2025-66478) / React (CVE-2025-55182) の脆弱性について](https://zenn.dev/satoyoshi/articles/05389491886cac)
 - ♥ 17 &nbsp;[Claude Codeが生成するAIメモをNotionに逃がすCLIを作った話 — Obsidianを見送った現実的な選択](https://zenn.dev/satoyoshi/articles/2fe1c89e825e31)
 - ♥ 3 &nbsp;[Next.js (Edge Runtime) の Route Handler テストでつまずいた話と、その解決策](https://zenn.dev/fristi_blog/articles/0533853b3123e8)
 - ♥ 2 &nbsp;[クリックできる場所に吸い付く液体ガラスのカーソルを、Chrome拡張で作った](https://zenn.dev/satoyoshi/articles/liquid-glass-magnetic-cursor)
