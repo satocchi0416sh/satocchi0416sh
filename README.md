@@ -36,8 +36,8 @@
 - ♥ 205 &nbsp;[【緊急】Next.js (CVE-2025-66478) / React (CVE-2025-55182) の脆弱性について](https://zenn.dev/satoyoshi/articles/05389491886cac)
 - ♥ 17 &nbsp;[Claude Codeが生成するAIメモをNotionに逃がすCLIを作った話 — Obsidianを見送った現実的な選択](https://zenn.dev/satoyoshi/articles/2fe1c89e825e31)
 - ♥ 3 &nbsp;[Next.js (Edge Runtime) の Route Handler テストでつまずいた話と、その解決策](https://zenn.dev/fristi_blog/articles/0533853b3123e8)
+- ♥ 2 &nbsp;[eMudhra の CA 鍵漏洩と PHP2Shell、同じ週に来た2つの緊急対応を一次ソースで整理する](https://zenn.dev/satoyoshi/articles/emudhra-ca-php2shell-2026-10)
 - ♥ 2 &nbsp;[クリックできる場所に吸い付く液体ガラスのカーソルを、Chrome拡張で作った](https://zenn.dev/satoyoshi/articles/liquid-glass-magnetic-cursor)
-- ♥ 2 &nbsp;[AIに同じ指示を繰り返すのをやめた ―― Skillを自己修復させる「再発防止ループ」](https://zenn.dev/satoyoshi/articles/2428152fefdd92)
 
 <!-- WRITING:END -->
 
